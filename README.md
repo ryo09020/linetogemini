@@ -1,7 +1,7 @@
 # Preparation
 Enter the API key in `app.py`.
 
-You should be fine if you enable the virtual environment.
+You should be fine if you enable the virtual environment. though you need python3.9　or higher
 
 Prepare a domain associated with the port number on localhost.
 
