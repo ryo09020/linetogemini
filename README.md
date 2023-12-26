@@ -22,3 +22,4 @@ $ flask run --port 5001 (specify the port number that is the same as your enviro
 ```
 This will allow you to see the output of the message sent from LINE through Gemini Pro on LINE.
 ###### The current version does not support images.
+###### だいぶ雑に書きましたが詳しくは[Qiita](https://qiita.com/ryo09020/items/6d4f175e8428c6a91eb3)をご覧ください
