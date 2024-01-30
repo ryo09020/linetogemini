@@ -18,7 +18,7 @@ $ ngrok http 5001
 ```
 3. Open another terminal and run the following code.
 ```
-$ flask run --port 5001 (specify the port number that is the same as your environment)
+$ flask run --port 5001 #(specify the port number that is the same as your environment)
 ```
 This will allow you to see the output of the message sent from LINE through Gemini Pro on LINE.
 ###### The current version does not support images.
